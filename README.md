@@ -6,4 +6,5 @@ EN/ With the code of this repository, clusters are created with the colors of th
 
 
 main.py - Código Streamlit realizado en VSCode. Elección de # clusters en una imagen.
+
 im_vid_ascii.py - Código para generar imagenes o vídeos ASCII a partir de archivos del usuario. 
